@@ -6,7 +6,15 @@ CSGO cheat made in Java using JavaFX as the overlay and JNA for memory manipulat
 - ESP need to be fixed
 - Aimbot need to be fixed
 - Performance need to be improved
-
+![FEATURES]
+- RCS
+- Triggerbot
+- No Flash
+- Third Person
+- Rank Revealer
+- FOV
+- Chams
+- Glow
 # FUTURE UPDATES
 - ESP
 - AIMBOT
